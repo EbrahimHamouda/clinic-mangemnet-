@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1582441798 source:c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\admin.c
+	"admin.h"
+	<stdio.h>
+
+1565806367 c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\admin.h
+	"Data_types.h"
+
+1582439482 c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\data_types.h
+
+1582433225 source:c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\delay.c
+	<time.h>
+
+1582441668 source:c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"Data_types.h"
+	"user.h"
+
+1565799465 c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\user.h
+	"Data_types.h"
+
+1565737946 source:c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\patient_data.c
+	"Data_types.h"
+
+1582441798 source:c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\user.c
+	"user.h"
+	<stdio.h>
+	<stdlib.h>
+	"delay.h"
+
+1582433170 c:\users\ebrah\desktop\diploma round0\c programming udmy\clinc system\clinc_system\delay.h
+
